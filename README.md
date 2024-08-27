@@ -28,7 +28,7 @@
 
 <h3 align="left">🛠 Programming Languages and frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,next,webpack,vite,scss,tailwind,materialui,,go,python,cpp,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,next,webpack,vite,scss,tailwind,materialui,,go,python,cpp,fastapi&perline=10)](https://skillicons.dev)
 
 ---
 
