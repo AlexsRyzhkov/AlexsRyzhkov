@@ -71,8 +71,6 @@
 
 ###
 
-<div align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/red-fox?theme=dark&font=Red%20Hat%20Text)
-</div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/red-fox?theme=dark&font=Red%20Hat%20Text)
 
 ###
