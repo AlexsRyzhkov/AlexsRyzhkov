@@ -26,17 +26,22 @@
 
 ---
 
-<h3 align="left">🛠 Языки программирования:</h3>
+<h3 align="left">🛠 Programming Languages and frameworks:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,webpack)](https://skillicons.dev)
 
 ---
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Databases and DevOps:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,webpack)](https://skillicons.dev)
 
 ---
+<h3 align="left">🛠 Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,webpack)](https://skillicons.dev)
+
+Tools
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
