@@ -43,7 +43,7 @@
 
 Tools
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   LeetCode :</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/red-fox?theme=dark&font=Red%20Hat%20Text)
 
