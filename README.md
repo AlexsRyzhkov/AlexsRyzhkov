@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bad Wolf</h1>
+<h1 align="center">Hi, I'm RedFox </h1>
 <h3 align="center">I am a full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badwolf1st&label=Profile%20views&color=0e75b6&style=flat" alt="badwolf1st" /> </p>
