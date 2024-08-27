@@ -28,18 +28,18 @@
 
 <h3 align="left">🛠 Programming Languages and frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,next,webpack,vite,scss,tailwind,materialui,,go,python,cpp,fastapi)](https://skillicons.dev)
 
 ---
 
-<h3 align="left">🛠 Databases and DevOps:</h3>
+<h3 align="left">🛠 Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 ---
 <h3 align="left">🛠 Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql,kafka,kubernetes,figma,linux)](https://skillicons.dev)
 
 Tools
 
