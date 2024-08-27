@@ -4,9 +4,11 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
+###
+
 <h1 align="center">Привет👋 Меня зовут Александр!</h1>
 
----
+###
 
 <div align="center">
   <a href="https://t.me/AlexsRyzh" target="_blank">
@@ -20,14 +22,21 @@
 
 <p align="left">Я начинающий Frontend разработчик.⚡ Являюсь студентом старших курсов МИРЭА</p>
 
-<h3 align="left">🛠 Языки программирования:</h3>
 <h3 align="left">🛠 Технологии:</h3>
 
-###
+---
+
+<h3 align="left">🛠 Языки программирования:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,webpack)](https://skillicons.dev)
 
-###
+---
+
+<h3 align="left">🛠 Технологии:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,webpack)](https://skillicons.dev)
+
+---
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
