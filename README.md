@@ -39,8 +39,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=graphql,kafka,kubernetes,figma,linux)]()
 
-Tools
-
 <h3 align="left">🔥   LeetCode :</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/red-fox?theme=dark&font=Red%20Hat%20Text)
